@@ -53,9 +53,9 @@ const CONFIG = {
   },
   seo: { title: 'Portfolio of ME', description: 'protfolio', imageURL: 'https://placehold.co/40' },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
+    linkedin: 'abdelrhman-elhodaky-9521bb220',
+    //x: 'arif_szn',
+   // mastodon: 'arifszn@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -70,44 +70,40 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     discord: '',
     telegram: '',
-    website: 'https://www.arifszn.com',
+   // website: 'https://www.arifszn.com',
     phone: '',
-    email: 'arifulalamszn@gmail.com',
+    email: 'abdo_elhodaky@outlook.com',
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/abdoElHodaky/About/blob/fd44e4bc0425fb7edf04c4921999e3c05430e5ca/AbdElrhman_Elhodaky__BE__Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
     'Laravel',
-    'JavaScript',
-    'React.js',
     'Node.js',
     'Nest.js',
     'MySQL',
     'PostgreSQL',
     'Git',
     'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
     'Tailwind',
+    'Kubernetes'
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'freelance',
+      position: 'Backend Developer',
+      from: 'april 2023',
+      to: 'Feb 2025 ',
+      //companyLink: 'https://example.com',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'Gds',
+      position: 'FS Dec',
+      from: 'Nov 2022',
+      to: 'Jan 2023',
+     // companyLink: 'https://example.com',
     },
   ],
   certifications: [
@@ -120,20 +116,14 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Mansoura university',
+      degree: 'Bachelor of Information systems',
       from: '2015',
       to: '2019',
     },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
-    },
   ],
   publications: [
-    {
+   /* {
       title: 'Publication Title',
       conferenceName: '',
       journalName: 'Journal Name',
@@ -150,12 +140,12 @@ const CONFIG = {
       link: 'https://example.com',
       description:
         'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+    },*/
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
-    source: 'dev', // medium | dev
-    username: 'arifszn', // to hide blog section, keep it empty
+    source: '', // medium | dev
+    username: '', // to hide blog section, keep it empty
     limit: 2, // How many articles to display. Max is 10.
   },
   googleAnalytics: {
