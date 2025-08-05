@@ -29,25 +29,24 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Projects',
+      header: 'recent Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
+          title: 'kubernetes deployment',
+          description:
+            'Deploy project via terraform and GitHub actions to Kuberntes cluster ',
+         // imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+          //link: 'https://example.com',
+        },
+       /* {
           title: 'Project Name',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           link: 'https://example.com',
-        },
-        {
-          title: 'Project Name',
-          description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },
+        },*/
       ],
     },
   },
@@ -107,12 +106,12 @@ const CONFIG = {
     },
   ],
   certifications: [
-    {
+    /*{
       name: 'Lorem ipsum',
       body: 'Lorem ipsum dolor sit amet',
       year: 'March 2022',
       link: 'https://example.com',
-    },
+    },*/
   ],
   educations: [
     {
