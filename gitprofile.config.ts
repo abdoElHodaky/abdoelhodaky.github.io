@@ -75,7 +75,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/abdoElHodaky/About/blob/fd44e4bc0425fb7edf04c4921999e3c05430e5ca/AbdElrhman_Elhodaky__BE__Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'About/AbdElrhman_Elhodaky__BE__Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
