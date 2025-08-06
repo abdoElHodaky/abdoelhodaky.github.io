@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['abdoElHodaky/Devops'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['abdoElHodaky/Devops','abdoElHodaky/Fluxcd'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
@@ -39,14 +39,14 @@ const CONFIG = {
          // imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
           //link: 'https://example.com',
         },
-       /* {
-          title: 'Project Name',
+        {
+          title: 'Fluxcd kustimization',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
+            'Kustomization for git repository via fluxcd ,kind, cricleci',
+         // imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
-        },*/
+        //  link: 'https://example.com',
+        },
       ],
     },
   },
@@ -87,7 +87,8 @@ const CONFIG = {
     'Git',
     'Docker',
     'Tailwind',
-    'Kubernetes'
+    'Kubernetes/Kind',
+    'CircleCi'
   ],
   experiences: [
     {
