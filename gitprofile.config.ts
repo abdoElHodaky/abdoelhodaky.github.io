@@ -43,8 +43,7 @@ const CONFIG = {
           title: 'Fluxcd kustimization',
           description:
             'Kustomization for git repository via fluxcd ,kind, cricleci',
-         // imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+         // imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
         //  link: 'https://example.com',
         },
       ],
