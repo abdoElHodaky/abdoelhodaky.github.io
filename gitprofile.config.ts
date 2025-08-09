@@ -107,6 +107,24 @@ const CONFIG = {
   ],
   certifications: [
     {
+      name: 'Ruby',
+      //body: 'Lorem ipsum dolor sit amet',
+      year: 'April 2022 ',
+     // link: 'https://example.com',
+    },
+    {
+      name: 'Php',
+      //body: 'Lorem ipsum dolor sit amet',
+      year: 'April 2022',
+     // link: 'https://example.com',
+    },
+    {
+      name: 'NodeJs',
+      //body: 'Lorem ipsum dolor sit amet',
+      year: 'April 2022',
+     // link: 'https://example.com',
+    },
+    {
       name: 'AWS',
       //body: 'Lorem ipsum dolor sit amet',
       year: 'June 2025',
@@ -118,6 +136,7 @@ const CONFIG = {
       year: 'June 2025',
      // link: 'https://example.com',
     },
+    
   ],
   educations: [
     {
