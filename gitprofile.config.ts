@@ -83,7 +83,7 @@ const CONFIG = {
     'Nest.js',
     'MySQL',
     'PostgreSQL',
-    'Git',
+    'Git',"Golang",
     'Docker',
     'Tailwind',
     'Kubernetes/Kind',
