@@ -33,6 +33,11 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
+          title: 'Trading System',
+          description:
+            'build high frequency trading platform via Golang,Websockets/PeerJs'
+        },
+        {
           title: 'kubernetes deployment',
           description:
             'Deploy project via terraform and GitHub actions to Kuberntes cluster ',
@@ -78,12 +83,12 @@ const CONFIG = {
   },
   skills: [
     'PHP',
-    'Laravel',
-    'Node.js',
+    'GoLang'
+    'Laravel/ExpressJs',
     'Nest.js',
-    'MySQL',
+    'MySQL/PostgreSqk',
     'PostgreSQL',
-    'Git',"Golang",
+    'Git',
     'Docker',
     'Tailwind',
     'Kubernetes/Kind',
@@ -136,6 +141,10 @@ const CONFIG = {
       year: 'June 2025',
      // link: 'https://example.com',
     },
+    {
+      name: 'Golang' ,
+      year: 'August 2025'
+    }
     
   ],
   educations: [
