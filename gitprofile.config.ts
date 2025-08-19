@@ -83,7 +83,7 @@ const CONFIG = {
   },
   skills: [
     'PHP',
-    'GoLang'
+    'GoLang',
     'Laravel/ExpressJs',
     'Nest.js',
     'MySQL/PostgreSqk',
