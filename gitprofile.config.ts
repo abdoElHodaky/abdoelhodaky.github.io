@@ -82,17 +82,15 @@ const CONFIG = {
       'About/AbdElrhman_Elhodaky__BE__Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'GoLang',
-    'Laravel/ExpressJs',
-    'Nest.js',
-    'MySQL/PostgreSqk',
-    'PostgreSQL',
+    'PHP,Laravel',
+    'GoLang,Gin',
+    'ExpressJs,NestJs',
+    'MySQL/PostgreSql',
+    'MongoDB',
     'Git',
     'Docker',
-    'Tailwind',
     'Kubernetes/Kind',
-    'CircleCi'
+    'CircleCi,Fluxcd'
   ],
   experiences: [
     {
