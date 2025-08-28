@@ -21,7 +21,7 @@ const CONFIG = {
         exclude: {
           forks: true, // Forked projects will not be displayed if set to true.
           projects: ['abdoElHodaky/abdoElHodaky',
-                     'abdoElHodaky/tradeSys',
+                     'abdoElHodaky/tradSys',
                      'abdoElHodaky/About',
                      'abdoElHodaky/abdoelhodaky.github.io'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
