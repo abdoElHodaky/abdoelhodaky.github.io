@@ -20,7 +20,10 @@ const CONFIG = {
         limit: 8, // How many projects to display.
         exclude: {
           forks: true, // Forked projects will not be displayed if set to true.
-          projects: ['abdoElHodaky/abdoElHodaky','abdoElHodaky/About','abdoElHodaky/abdoelhodaky.github.io'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
+          projects: ['abdoElHodaky/abdoElHodaky',
+                     'abdoElHodaky/tradeSys',
+                     'abdoElHodaky/About',
+                     'abdoElHodaky/abdoelhodaky.github.io'], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
         },
       },
       manual: {
