@@ -17,7 +17,7 @@ const CONFIG = {
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
-        limit: 8, // How many projects to display.
+        limit: 5, // How many projects to display.
         exclude: {
           forks: true, // Forked projects will not be displayed if set to true.
           projects: ['abdoElHodaky/abdoElHodaky',
@@ -82,7 +82,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'About/AbdElrhman_Elhodaky__BE__Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'About/Abd_Elrhman_Elhodaky__BE__Resume.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP,Laravel',
