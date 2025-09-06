@@ -36,9 +36,9 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Trading System',
+          title: 'Data Analytics System',
           description:
-            'build high frequency trading platform via Golang,Websockets/PeerJs'
+            'build Data Analytics platform via RubyOnRails, JsonRPC'
         },
         {
           title: 'kubernetes deployment',
