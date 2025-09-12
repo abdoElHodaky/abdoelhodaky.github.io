@@ -86,12 +86,12 @@ const CONFIG = {
   },
   skills: [
     'PHP,Laravel',
-    'GoLang,Gin',
-    'ExpressJs,NestJs',
+    'Go',
+    'ExpressJs/NestJs',
     'MySQL/PostgreSql',
     'MongoDB',
     'Git',
-    'Docker',
+    'Docker','Terraform',
     'Kubernetes/Kind',
     'CircleCi,Fluxcd'
   ],
