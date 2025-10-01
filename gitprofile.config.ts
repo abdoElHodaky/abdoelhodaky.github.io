@@ -95,7 +95,7 @@ const CONFIG = {
     'MySQL/PostgreSql',
     'MongoDB',
     'Git','Docker','Terraform',
-    'Kubernetes/Kind','OpenShift"
+    'Kubernetes/Kind','OpenShift",
     'CircleCi,Fluxcd'
   ],
   experiences: [
