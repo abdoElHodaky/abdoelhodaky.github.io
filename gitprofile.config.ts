@@ -37,10 +37,7 @@ const CONFIG = {
       projects: [
         {
           title:' Openshift gitops',
-          description:"🚀 Enterprise GitOps Solution: Production-ready OpenShift implementation using FluxCD with exceptional security standards (98.7/100 score), orchestrating  YAML configurations across development, staging, and production environments with zero-trust networking and custom Security Context Constraints.\n\n🏗️ \
-            Full-Stack Application Architecture: Comprehensive ecommerce platform featuring React frontend, Node.js backend, and PostgreSQL database, enhanced with automated CI/CD pipelines, advanced Kubernetes security patterns, and integrated vulnerability scanning through Trivy, Checkov, and TruffleHog.\n\n \
-            🎯 Industry-Standard Implementation: Showcases enterprise-grade container orchestration with automated deployment scripts, local development support via OpenShift CRC, and serves as a definitive reference for secure, scalable Kubernetes deployments in mission-critical environments."
-        },
+          description:"🚀 Production-ready OpenShift GitOps implementation using FluxCD with enterprise-grade security (98.7/100 score), featuring a complete ecommerce stack (React/Node.js/PostgreSQL) across multi-environment deployments, zero-trust networking, comprehensive vulnerability scanning (Trivy/Checkov/TruffleHog), and automated CI/CD pipelines ."
         {
           title: 'Data Analytics System',
           description:
