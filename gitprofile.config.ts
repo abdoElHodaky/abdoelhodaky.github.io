@@ -40,8 +40,7 @@ const CONFIG = {
           description:"🚀 Production-ready OpenShift GitOps implementation using FluxCD with enterprise-grade security (98.7/100 score), featuring a complete ecommerce stack (React/Node.js/PostgreSQL) across multi-environment deployments, zero-trust networking, comprehensive vulnerability scanning (Trivy/Checkov/TruffleHog), and automated CI/CD pipelines ."
         {
           title: 'Data Analytics System',
-          description:
-            'build Data Analytics platform via RubyOnRails, JsonRPC'
+          description: 'Enterprise Rails CQRS analytics platform: 60M+ ops/hour, multi-DSS integration, 100K+ users, production-optimized.'
         },
         {
           title: 'kubernetes deployment',
