@@ -56,6 +56,14 @@ const CONFIG = {
          // imageUrl: 'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
         //  link: 'https://example.com',
         },
+        {
+          title: ' TradeSys ',
+          description: 'TradSys is a next-generation, institutional-grade high-frequency trading platform built with Go that delivers sub-millisecond order execution (<1ms latency),\
+            processes over 100,000 orders per second with 99.99% uptime, leverages microservices architecture with event sourcing and CQRS patterns, implements real-time risk management with circuit breakers,\
+            supports multi-region Kubernetes deployments across cloud-agnostic infrastructure, and provides enterprise-ready security through JWT/MFA authentication, RBAC authorization, \
+            comprehensive audit logging, and full regulatory compliance (MiFID II, GDPR) - making institutional-grade algorithmic trading accessible to hedge funds, proprietary trading firms, market makers, and cryptocurrency exchanges through a modern, scalable, and resilient technology stack. \
+            '
+        },
       ],
     },
   },
