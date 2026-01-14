@@ -36,6 +36,11 @@ const CONFIG = {
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
+          title:'Enterprise Gateway API & Service Mesh Platform',
+          description:'Complete enterprise-grade Kubernetes Gateway API and Service Mesh infrastructure delivering 99.99% uptime, 30% cost savings, and 50% faster deployments across multiple cloud providers with advanced security, intelligent monitoring, and full automation.\
+            Transform your infrastructure operations with a world-class, enterprise-ready platform '
+        },
+        {
           title:' Openshift gitops',
           description:"🚀 Production-ready OpenShift GitOps implementation using FluxCD with enterprise-grade security (98.7/100 score), featuring a complete ecommerce stack (React/Node.js/PostgreSQL) across multi-environment deployments, zero-trust networking, comprehensive vulnerability scanning (Trivy/Checkov/TruffleHog), and automated CI/CD pipelines ."
         },{
@@ -109,7 +114,7 @@ const CONFIG = {
       company: 'freelance',
       position: 'Backend Developer',
       from: 'april 2023',
-      to: 'Feb 2025 ',
+      to: 'july 2025 ',
       //companyLink: 'https://example.com',
     },
     {
